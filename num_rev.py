@@ -1,4 +1,4 @@
-n = 476
+n = int(input()) #take the input from user
 x = 0
 while n>0:
     rem = n%10
